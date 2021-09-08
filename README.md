@@ -3,6 +3,7 @@
 # Supported tags and respective Dockerfile links
 
  - 3.6.3-rc-1
+ - 3.6.3-rc-2
 
 # What is Zookeeper ? 
 
