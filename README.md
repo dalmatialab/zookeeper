@@ -24,6 +24,12 @@ Where:
  - `image` is Docker image name
  - `tag` is Docker image version
 
+## Environment variables
+
+**TZ**
+
+This is *optional* variable. It specifes timezone. Default value is `Europe/Zagreb`.
+
 ## Ports
 
 This image includes EXPOSE 2181 2888 3888 8080 (the Zookeeper client port, follower port, election port, AdminServer port)
