@@ -2,8 +2,8 @@
 
 # Supported tags and respective Dockerfile links
 
- - 3.6.3-rc-1
- - 3.6.3-rc-2
+ - [3.6.3-rc-1](https://github.com/dalmatialab/zookeeper/blob/1eebfac82bea40e31598b530c3cd6ffa681f6338/Dockerfile)
+ - [3.6.3-rc-2](https://github.com/dalmatialab/zookeeper/blob/c8863fafae39f61c62d6c566345b6dcf8bc29f44/Dockerfile)
 
 # What is Zookeeper ? 
 
